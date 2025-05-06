@@ -1,0 +1,20 @@
+{
+    "name": "com.gamebase.eventbus",
+    "version": "1.0.0",
+    "displayName": "Game Base - Event Bus",
+    "description": "Event Bus for Game Base",
+    "keywords": [
+        "event",
+        "bus",
+        "gamebase"
+    ],
+    "unity": "2020.3",
+    "author": {
+        "name": "Worst Coast Games",
+        "email": "narkawiczsamuel@gmail.com"
+    },
+    "gitDependencies": {
+        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git",
+        "com.holyshovelsoft.opensource.log4uni": "https://github.com/HolyShovelSoft/log4uni.git#1.2.2"
+    }
+}
