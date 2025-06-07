@@ -14,7 +14,6 @@
         "email": "narkawiczsamuel@gmail.com"
     },
     "gitDependencies": {
-        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git",
         "com.holyshovelsoft.opensource.log4uni": "https://github.com/HolyShovelSoft/log4uni.git#1.2.2"
     }
 }
